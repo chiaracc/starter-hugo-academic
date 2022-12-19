@@ -1,23 +1,16 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget: Chiara received her bachelor’s in cognitive science and master’s in
+  neuroscience from the University of Padua, Italy, and then became a qualified
+  psychologist with the aim to bridge neuroscience and developmental psychology.
+  She is interested in how higher cognitive functions develop and how early
+  experience can shape the way we look at the world. Chiara is also the
+  president of the Dublin University Neuroscience Society, the social
+  coordinator of the OHBM Student/Postdoc Special Interest Group, and an
+  associate editor at the Journal of European Psychology Students.
+widget_id: about
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
 ---
-
-
