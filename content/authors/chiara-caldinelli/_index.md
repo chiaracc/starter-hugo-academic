@@ -7,4 +7,4 @@ superuser: false
 ---
 Welcome! 
 
-I﻿ am Chiara, a PhD candidate at thCusack lab.
+I﻿ am Chiara, a PhD candidate at the Cusack lab. 
